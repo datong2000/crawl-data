@@ -1,0 +1,22 @@
+{
+  "name": "dom-data",
+  "version": "1.0.0",
+  "description": "通过puppeteer插件,获取相关dom所展示的数据",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/datong2000/dom-data.git"
+  },
+  "author": "datong <2829099680@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/datong2000/dom-data/issues"
+  },
+  "homepage": "https://github.com/datong2000/dom-data#readme",
+  "dependencies": {
+    "puppeteer": "^14.4.0"
+  }
+}
