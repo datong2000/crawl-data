@@ -21,7 +21,7 @@ async function init() {
       return `
   # dom-data
 
-  > 通过puppeteer插件,获取相关dom所展示的数据
+  > 通过puppeteer插件,获取相关dom所展示的数据,使用方式: node index.js url
 
   ## 网站标题:${hasData(title)}`;
 
